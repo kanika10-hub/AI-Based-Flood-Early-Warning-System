@@ -29,6 +29,27 @@ An AI-powered predictive system designed to forecast flood risks using environme
 
 ---
 
+<img width="1812" height="816" alt="image" src="https://github.com/user-attachments/assets/3120ecbd-2529-439c-b9be-e3842cadca24" />
+
+
+<img width="1819" height="789" alt="image" src="https://github.com/user-attachments/assets/f35fe205-85f4-410d-bf68-b5b0ada1dbe6" />
+
+<img width="1825" height="773" alt="image" src="https://github.com/user-attachments/assets/32d92e4c-132b-4245-bc62-d784668a8e02" />
+
+
+
+
+<img width="1812" height="877" alt="Screenshot 2026-03-30 103542" src="https://github.com/user-attachments/assets/c2ff42c8-d21a-4d40-ab63-fc99154a156c" />
+
+
+
+
+
+
+
+
+
+
 ##  System Workflow
 1. Collect environmental and historical data
 2. Perform data preprocessing and cleaning
